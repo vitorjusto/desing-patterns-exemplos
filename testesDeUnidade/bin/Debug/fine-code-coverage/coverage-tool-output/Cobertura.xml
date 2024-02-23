@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0" branch-rate="1" lines-covered="0" lines-valid="6" branches-covered="0" branches-valid="0" complexity="2" version="0" timestamp="1690889245">
+  <sources />
+  <packages>
+    <package name="testesDeUnidade" line-rate="0" branch-rate="1" complexity="2">
+      <classes>
+        <class name="testesDeUnidade.UnitTest1" filename="C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\UnitTest1.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="TestMethod1" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="TestMethod2" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

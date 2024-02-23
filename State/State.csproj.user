@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ExemploIdeal\EstadoVenda\StateVenda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ExemploIdeal\frmExemploIdeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExemploIdeal\VendaCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ExemploIdeal\VendaFormaPagamento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ExemploIdeal\VendaProduto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ExemploNaoIdeal\frmExemploNaoIdeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

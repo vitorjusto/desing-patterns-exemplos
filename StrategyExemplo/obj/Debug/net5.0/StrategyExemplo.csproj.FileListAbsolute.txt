@@ -1,0 +1,15 @@
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\StrategyExemplo.exe
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\StrategyExemplo.deps.json
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\StrategyExemplo.runtimeconfig.json
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\StrategyExemplo.runtimeconfig.dev.json
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\StrategyExemplo.dll
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\ref\StrategyExemplo.dll
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\bin\Debug\net5.0\StrategyExemplo.pdb
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.AssemblyInfoInputs.cache
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.AssemblyInfo.cs
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.csproj.CoreCompileInputs.cache
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.dll
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\ref\StrategyExemplo.dll
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.pdb
+C:\Users\VitorJusto\source\repos\playground\StrategyExemplo\obj\Debug\net5.0\StrategyExemplo.genruntimeconfig.cache

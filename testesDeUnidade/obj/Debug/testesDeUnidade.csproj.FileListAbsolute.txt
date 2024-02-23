@@ -1,0 +1,14 @@
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\testesDeUnidade.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\testesDeUnidade.pdb
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\obj\Debug\testesDeUnidade.csproj.AssemblyReference.cache
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\obj\Debug\testesDeUnidade.csproj.CoreCompileInputs.cache
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\obj\Debug\testesDeUnidade.csproj.CopyComplete
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\obj\Debug\testesDeUnidade.dll
+C:\Users\VitorJusto\source\repos\playground\testesDeUnidade\obj\Debug\testesDeUnidade.pdb
