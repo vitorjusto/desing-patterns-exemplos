@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8p76DQiq+eDhNUQ8SBw/CzQeE4Gpqcpv8HlbgscnT1bHT3mXqI3hn14ztUpnT2373KhweyYyLoNHCd07D3VfA==",
+  "dgSpecHash": "dIn+N7AyAFr3/JFU3SERhHH+9FWxoZCoAAcYnd7ExwiZoG4wvn5ORELcfT/ps5Zz0TTpArQA50gKqhx/peDcAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\TemplateMethod\\TemplateMethod.csproj",
+  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\TemplateMethod\\TemplateMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yaVtmYXh0B2clKyhorBunTIhfaFBPPxLBvC+8UPXmq1MCH1j7gQSPRHtB4ekSA0/5ErcS9if3ZMDCTVGqOogNg==",
+  "dgSpecHash": "o2AjgjwmLTyKH8LyUHxdAjLjisvC10+nCR2YrFvXF/nfQXQBDGeqvHFwOzmrhWnksxk3KG5vgc2zN/LlsNZRIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\State\\State.csproj",
+  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\State\\State.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

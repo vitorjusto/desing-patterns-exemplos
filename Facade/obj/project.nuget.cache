@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5CIOZ5my39z4rF9YDu3CugmelJPBsMW2LujtayFoXG9H7U3AbKP60EdhjGOTWRQRQt4/cQrTFptLMg0aRvtZIA==",
+  "dgSpecHash": "lXbl+zy8U6ezXdv9veWbUSdNyQWTMhfC6Q+/K9S906UTASpcI2ZBifd/Sy1Za+bHz75Hn0z4xpMMcUmVkRweVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\Facade\\Facade.csproj",
+  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\Facade\\Facade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

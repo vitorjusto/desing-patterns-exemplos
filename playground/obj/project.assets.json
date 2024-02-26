@@ -4683,11 +4683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VitorJusto\\source\\repos\\playground\\playground\\playground.csproj",
+      "projectUniqueName": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\playground\\playground.csproj",
       "projectName": "playground",
-      "projectPath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\playground\\playground.csproj",
+      "projectPath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\playground\\playground.csproj",
       "packagesPath": "C:\\Users\\VitorJusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\playground\\obj\\",
+      "outputPath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\playground\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

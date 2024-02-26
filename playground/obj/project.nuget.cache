@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GsUy3xKau7tug/r3XPTJHhEJlO5M22Nc2QCkv8EPgDqDiUrtIuxz+JEf+uh3mlRfrPjkr0XxkjWEYbIQjTn89w==",
+  "dgSpecHash": "J1C2O+BFMart3A2Q28AtVr+71buvu/i9eqzGMWTm3cDsAa54QejkzbFpk4IQBG2cfNHtq4OGqkMx7J+NP7CMKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\playground\\playground.csproj",
+  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\playground\\playground.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VitorJusto\\.nuget\\packages\\closedxml\\0.102.0\\closedxml.0.102.0.nupkg.sha512",
     "C:\\Users\\VitorJusto\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

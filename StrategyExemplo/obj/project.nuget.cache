@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4D2fBJIKSRyVnSPNCljNfSc4qpmD7e2tOPJj1HGpFEOLfReoKZ66iY88/aSEQUMKXAoP+0zL2fKl0e3FNg7Lkw==",
+  "dgSpecHash": "PRgeHpZpD7D1j6wcCM/DwQCyX2/KYPvPriMTsINKJee0g/VZsFUqaxMUVuvHrNgMcn+it6zgygcdJsWLMH9iTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\StrategyExemplo\\StrategyExemplo.csproj",
+  "projectFilePath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\StrategyExemplo\\StrategyExemplo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

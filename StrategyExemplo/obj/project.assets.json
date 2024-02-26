@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VitorJusto\\source\\repos\\playground\\StrategyExemplo\\StrategyExemplo.csproj",
+      "projectUniqueName": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\StrategyExemplo\\StrategyExemplo.csproj",
       "projectName": "StrategyExemplo",
-      "projectPath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\StrategyExemplo\\StrategyExemplo.csproj",
+      "projectPath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\StrategyExemplo\\StrategyExemplo.csproj",
       "packagesPath": "C:\\Users\\VitorJusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VitorJusto\\source\\repos\\playground\\StrategyExemplo\\obj\\",
+      "outputPath": "C:\\Users\\VitorJusto\\source\\repos\\DesingPatterns\\StrategyExemplo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

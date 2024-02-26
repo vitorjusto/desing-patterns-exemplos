@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Facade
-build_property.ProjectDir = C:\Users\VitorJusto\source\repos\playground\Facade\
+build_property.ProjectDir = C:\Users\VitorJusto\source\repos\DesingPatterns\Facade\
